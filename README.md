@@ -27,7 +27,7 @@
 
 ###
 
- name: gitartwork from a contribution graph
+  name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
@@ -41,9 +41,9 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: BrianStevenV
+            user_name: jasineri
             # Text on contribution graph 
-            text: BRIAN
+            text: JASINERI
        - uses: jasineri/simple-push-action@v1
 
 ###
