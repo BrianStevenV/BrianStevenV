@@ -27,9 +27,24 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BrianStevenV/BrianStevenV/blob/output/snake.svg" alt="Snake animation" />
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: BrianStevenV
+            # Text on contribution graph 
+            text: BRIAN
+       - uses: jasineri/simple-push-action@v1
 
 ###
 
