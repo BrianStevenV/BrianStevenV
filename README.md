@@ -2,6 +2,11 @@
 
 ###
 
+<h3 align="left">Logic, creativity and ingenuity are the tools we have to build code, they are our hands and technologies are our tools to make code a true art.</h3>
+
+###
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="72" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="72" alt="spring logo"  />
