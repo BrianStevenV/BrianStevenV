@@ -11,7 +11,7 @@
 <h4>🔑I like technologies.</h4>
 <h4>💎I like to learn new knowledges.</h4>
 <h4>🔑I like to read classic, Hellenistic, Renaissance and romantic books, I like to cultivate and strengthen my spirit through virtues, I like to strengthen my heart through art, mainly I love rhetoric, I like to write and discover with the strength of my understanding these readings.</h4>
-<h4>🚀I like challenge code!</h4>
+<h4>🚀I like challenging code</h4>
 
 ###
 
