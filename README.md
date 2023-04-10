@@ -13,9 +13,13 @@
 <h4>🔑I like to read classic, Hellenistic, Renaissance and romantic books, I like to cultivate and strengthen my spirit through virtues, I like to strengthen my heart through art, mainly I love rhetoric, I like to write and discover with the strength of my understanding these readings</h4>
 <h4>🚀I like challenge code!</h4>
 
+###
+
 <div align="center">
   <h4>❤ Programming | 💛 Learn | 💙 Virtues | 💜 Developing</h4>
 </div>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="72" alt="java logo"  />
