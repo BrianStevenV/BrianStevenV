@@ -21,7 +21,7 @@
 
 ###
 
-<hr color="white">
+<br>
 
 ###
 
