@@ -16,7 +16,7 @@
 ###
 
 <div align="center" style="display: flex; justify-content: space-between">
-  <h4>❤ Programming | 🧡 Learn | 💙 Virtues | 💜 Developing</h4>
+  <h4>❤ Programming | 🧡 Learning | 💙 Virtues | 💜 Developing</h4>
 </div>
 
 ###
