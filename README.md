@@ -51,6 +51,9 @@
 ###
 
   ![snake gif](https://github.com/BrianStevenV/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  <div align="center">
+  <img height="300" src="https://github.com/BrianStevenV/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif"  />
+</div>
 
 ###
 
@@ -60,9 +63,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>
+</div> -->
 
 ###
 
