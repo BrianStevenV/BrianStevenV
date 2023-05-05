@@ -4,8 +4,8 @@
 </div> -->
 
 <div>
+  <img align="center"style="float: right;" height="150" src="https://media.giphy.com/media/pyYbGWF1buqmt2rCxt/giphy.gif">
   <h2 align="left">Hi 👋🏻! My name is Brian Steven...</h2>
-  <img style="float: right;" height="150" src="https://media.giphy.com/media/pyYbGWF1buqmt2rCxt/giphy.gif">
 </div>
 
 
