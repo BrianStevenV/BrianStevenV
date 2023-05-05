@@ -1,13 +1,8 @@
-<!-- <h2 align="left">Hi 👋🏻! My name is Brian Steven...</h2>
-<div align="rigth">
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/pyYbGWF1buqmt2rCxt/giphy.gif">
-</div> -->
-
-<div>
-  <img align="center"style="float: right;" height="150" src="https://media.giphy.com/media/pyYbGWF1buqmt2rCxt/giphy.gif">
-  <h2 align="left">Hi 👋🏻! My name is Brian Steven...</h2>
 </div>
-
+<h2 align="left">Hi 👋🏻! My name is Brian Steven...</h2>
 
 ###
 
