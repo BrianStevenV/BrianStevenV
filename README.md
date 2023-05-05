@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/PhTeLMa5Z70DlcHehz/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/iMBEwpRodEBlpuTyVD/giphy-downsized-large.gif" />
 </div>
 
 ###
