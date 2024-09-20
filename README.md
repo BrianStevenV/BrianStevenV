@@ -4,13 +4,13 @@
 </div>
 <h2 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h2>
 
-###
+
 <h1>🏆Profile🏆</h1>
 
 <p align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</p>
 
 <hr>
-###
+
 
 <h1>✅About me</h1>
 
@@ -22,17 +22,17 @@
 
 <p>🚀I like challenging code!</h4>
 
-###
+
 
 <div align="center" style="display: flex; justify-content: space-between">
   <h4>❤ Programming | 🧡 Learning | 💙 Virtues | 💜 Developing</h4>
 </div>
 
-###
+
 
 <br>
 
-###
+
 <h1>🧰 My toolbox</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="72" alt="java logo"  />
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="60" width="72" alt="graphql logo"  />
 </div>
 
-###
+
 
 <h1>🏁 Stats</h1>
 <div align="center">
