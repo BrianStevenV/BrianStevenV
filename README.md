@@ -2,19 +2,20 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/pyYbGWF1buqmt2rCxt/giphy.gif">
 </div>
-<h2 align="left">Hi 👋🏻! My name is Brian Steven...</h2>
+<h2 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h2>
 
 ###
 
-<h3 align="left">Logic, creativity and ingenuity are the tools we have to build code, they are our hands and technologies are our tools to make code a true art.</h3>
+<h3 align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</h3>
 
 ###
 
-<h4>💻I'm Back-End Developer.</h4>
-<h4>🌎I'm from Medellín - Colombia.</h4>
-<h4>🌱I like technologies.</h4>
-<h4>💎I like to learn new knowledges.</h4>
-<h4>🔑I like to read classic, Hellenistic, Renaissance and romantic books, I like to cultivate and strengthen my spirit through virtues, I like to strengthen my heart through art, mainly I love rhetoric, I like to write and discover with the strength of my understanding these readings.</h4>
+<h4>🎯Back-End Engineer.</h4>
+<h4>🌎 Medellín - Colombia 📍 Madrid - Spain.</h4>
+<h4>🎬I'm Filmmaker</h4>
+<h4>🥊I like Boxing</h4>
+<h4>🏎F1 And MotoGP🏍</h4>
+
 <h4>🚀I like challenging code!</h4>
 
 ###
