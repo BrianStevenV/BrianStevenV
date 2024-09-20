@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="[https://media.giphy.com/media/iMBEwpRodEBlpuTyVD/giphy-downsized-large.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0angxZHJsdWtyNjk3dmJlZGczNHN2YjN6NTk1b3Frc213b3l3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDWAAKxKbpamHrW/giphy.gif)" />
+  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0angxZHJsdWtyNjk3dmJlZGczNHN2YjN6NTk1b3Frc213b3l3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDWAAKxKbpamHrW/giphy.gif" />
 </div>
 
 ###
