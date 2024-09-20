@@ -2,14 +2,12 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/pyYbGWF1buqmt2rCxt/giphy.gif">
 </div>
-<h2 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h2>
+<h1 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h1>
 
 
 <h1>🏆Profile🏆</h1>
 
 <p align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</p>
-
-<hr>
 
 
 <h1>✅About me</h1>
@@ -28,9 +26,6 @@
   <h4>❤ Programming | 🧡 Learning | 💙 Virtues | 💜 Developing</h4>
 </div>
 
-
-
-<br>
 
 
 <h1>🧰 My toolbox</h1>
