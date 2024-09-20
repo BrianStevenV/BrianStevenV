@@ -5,18 +5,22 @@
 <h2 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h2>
 
 ###
+<h1>🏆Profile🏆</h1>
 
-<h3 align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</h3>
+<p align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</p>
 
+<hr>
 ###
 
-<h4>🎯Back-End Engineer.</h4>
-<h4>🌎 Medellín - Colombia 📍 Madrid - Spain.</h4>
-<h4>🎬I'm Filmmaker</h4>
-<h4>🥊I'm a Puncher!!!☄️trading punch for punch </h4>
-<h4>🏎️F1 And MotoGP🏍️</h4>
+<h1>✅About me</h1>
 
-<h4>🚀I like challenging code!</h4>
+<p>🎯Back-End Engineer.</p>
+<p>🌎 Medellín - Colombia 📍 Madrid - Spain.</p>
+<p>🎬I'm Filmmaker</p>
+<p>🥊I'm a Puncher!!!☄️trading punch for punch </p>
+<p>🏎️F1 And MotoGP🏍️</p>
+
+<p>🚀I like challenging code!</h4>
 
 ###
 
@@ -29,7 +33,7 @@
 <br>
 
 ###
-
+<h1>🧰 My toolbox</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="72" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="72" alt="spring logo"  />
@@ -41,6 +45,7 @@
 
 ###
 
+<h1>🏁 Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=BrianStevenV" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=BrianStevenV" height="150" alt="languages graph"  />
