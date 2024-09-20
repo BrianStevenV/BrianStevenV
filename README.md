@@ -13,8 +13,8 @@
 <h4>🎯Back-End Engineer.</h4>
 <h4>🌎 Medellín - Colombia 📍 Madrid - Spain.</h4>
 <h4>🎬I'm Filmmaker</h4>
-<h4>🥊I like Boxing</h4>
-<h4>🏎F1 And MotoGP🏍</h4>
+<h4>🥊I'm a Puncher!!!☄️trading punch for punch </h4>
+<h4>🏎️F1 And MotoGP🏍️</h4>
 
 <h4>🚀I like challenging code!</h4>
 
