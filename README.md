@@ -5,7 +5,7 @@
 <h1 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h1>
 
 
-<h1>🏆Profile🏆</h1>
+<h1>Profile</h1>
 
 <p align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</p>
 
@@ -15,10 +15,6 @@
 <p>🎯Back-End Engineer.</p>
 <p>🌎 Medellín - Colombia 📍 Madrid - Spain.</p>
 <p>🎬I'm Filmmaker</p>
-<p>🥊I'm a Puncher!!!☄️trading punch for punch </p>
-<p>🏎️F1 And MotoGP🏍️</p>
-
-<p>🚀I like challenging code!</h4>
 
 
 
