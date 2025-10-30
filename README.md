@@ -12,23 +12,24 @@
 
 <h1>✅About me</h1>
 
-<p>🎯I’m a Frontend Engineer passionate about building scalable, performant, and accessible user interfaces — but my foundation was forged on the backend.
+<p>🎯I’m a Frontend Engineer passionate about building scalable, performant, and accessible user interfaces — but my foundation was forged in system design and backend engineering.
+With a strong understanding of how large distributed systems behave, I bring backend thinking into frontend architecture — data-driven, maintainable, and resilient.
+I love working at the intersection of frontend experience and backend logic.</p>
 
-My early projects in university and bootcamps were focused on Java, Spring Boot, microservices, DDD, and clean architecture, which gave me a strong sense of how large systems behave.
+<p>🌎 Medellín — Colombia 📍 Madrid — Spain.</p>
 
-Today, I use that background to design frontend architectures that align with backend principles — data-driven, maintainable, and resilient. I love working at the intersection of frontend experience and backend logic.</p>
-
-<p>🌎 Medellín - Colombia 📍 Madrid - Spain.</p>
-<p>🎬 Filmmaking — Every frame is a decision, every cut a conviction</p>
-<p>🥊 Boxing — I’m not interested in great, I wanted to know who its daddy is.</p>
-<p>⚾ Baseball — Take a swing ahd see what happens</p>
-<p>🏎️ F1 — Power has rhythm and speed has grace.</p>
+<p>🎬 Filmmaking | Every frame is a decision, every cut a conviction</p>
+<p>🥊 Boxing | I’m not interested in great, I wanted to know who its daddy is.</p>
+<p>⚾ Baseball | Take a swing ahd see what happens</p>
+<p>🏎️ F1 | Power has rhythm and speed has grace.</p>
 
 
 
 <div align="center" style="display: flex; justify-content: space-between">
   <h4>⚙️ Engineering | 🚀 Growth | 🧠 Architecture | 🎯 Impact</h4>
 </div>
+
+<h2>🥃 So classy that either you get jealous and admire him, or you get inspired and worship him. But you can’t ignore him. 🔥</h2>
 
 
 
