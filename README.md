@@ -20,7 +20,7 @@ I love working at the intersection of frontend experience and backend logic.</p>
 
 <p>🎬 Filmmaking | Every frame is a decision, every cut a conviction</p>
 <p>🥊 Boxing | I’m not interested in great, I wanted to know who its daddy is.</p>
-<p>⚾ Baseball | Take a swing ahd see what happens</p>
+<p>⚾ Baseball | Take a swing and see what happens</p>
 <p>🏎️ F1 | Power has rhythm and speed has grace.</p>
 
 
@@ -33,9 +33,14 @@ I love working at the intersection of frontend experience and backend logic.</p>
 
 
 
-<h1>🧰 My toolbox</h1>
+<h1>🦾 Engineering Stack</h1>
 <div align="center">
-  
+  <h2 align="left">💻 Core Web UI</h2>
+
+  <br/>
+  <br/>
+
+  <h2 align="left">⚒️Baseline</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="60" width="72" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="72" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="72" alt="spring logo"  />
