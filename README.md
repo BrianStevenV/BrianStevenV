@@ -2,7 +2,7 @@
 <div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl5N3I4NnYyMGJzdGxoMjN0NDh0cHd0MTJxcjNsZThra3IzamJ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExfefVh7RnU58f6/giphy.gif">
 </div>
-<h1 align="left">🏅I'm fascinated by large-scale, high-impact products and contribute to mayor feature launches.🏅</h1>
+<h1 align="left">🏅I'm fascinated by building performant web experiences and solid architectures that create high impact at scale.🏅</h1>
 
 
 <h1>Profile</h1>
@@ -12,7 +12,11 @@
 
 <h1>✅About me</h1>
 
-<p>🎯Back-End Engineer.</p>
+<p>🎯I’m a Frontend Engineer passionate about building scalable, performant, and accessible user interfaces — but my foundation was forged on the backend.
+
+My early projects in university and bootcamps were focused on Java, Spring Boot, microservices, DDD, and clean architecture, which gave me a strong sense of how large systems behave.
+
+Today, I use that background to design frontend architectures that align with backend principles — data-driven, maintainable, and resilient. I love working at the intersection of frontend experience and backend logic.</p>
 <p>🌎 Medellín - Colombia 📍 Madrid - Spain.</p>
 <p>🎬I'm Filmmaker</p>
 
