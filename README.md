@@ -36,6 +36,16 @@ I love working at the intersection of frontend experience and backend logic.</p>
 <h1>🦾 Engineering Stack</h1>
 <div align="center">
   <h2 align="left">💻 Core Web UI</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="72" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="72" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="72" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="72" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" width="72" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="60" width="72" alt="vite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" width="72" alt="jest logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Lighthouse_Logo.svg" height="60" width="72" alt="lighthouse logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/A11y_logo.svg" height="60" width="72" alt="accessibility logo" />
+  
 
   <br/>
   <br/>
