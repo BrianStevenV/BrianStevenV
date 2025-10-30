@@ -7,7 +7,7 @@
 
 <h1>Profile</h1>
 
-<p align="left">⚙️Web UI Engineer | React & TypeScript | Scalable Frontend Architectures</p>
+<p align="left">💻 Web UI Engineer | React & TypeScript | Crafting High-Performance Frontend Architectures 🚀</p>
 
 
 <h1>✅About me</h1>
