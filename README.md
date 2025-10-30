@@ -7,7 +7,7 @@
 
 <h1>Profile</h1>
 
-<p align="left">Full-Stack Engineer🔥 with experience in agile frameworks in cross-functional teams with an emphasis as a Backend Engineer, I am a T-shaped professional.</p>
+<p align="left">⚙️Web UI Engineer | React & TypeScript | Scalable Frontend Architectures</p>
 
 
 <h1>✅About me</h1>
@@ -23,7 +23,7 @@ Today, I use that background to design frontend architectures that align with ba
 
 
 <div align="center" style="display: flex; justify-content: space-between">
-  <h4>❤ Programming | 🧡 Learning | 💙 Virtues | 💜 Developing</h4>
+  <h4>⚙️ Engineering | 🚀 Growth | 🧠 Architecture | 🎯 Impact</h4>
 </div>
 
 
