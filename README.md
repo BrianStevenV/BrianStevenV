@@ -17,8 +17,12 @@
 My early projects in university and bootcamps were focused on Java, Spring Boot, microservices, DDD, and clean architecture, which gave me a strong sense of how large systems behave.
 
 Today, I use that background to design frontend architectures that align with backend principles — data-driven, maintainable, and resilient. I love working at the intersection of frontend experience and backend logic.</p>
+
 <p>🌎 Medellín - Colombia 📍 Madrid - Spain.</p>
-<p>🎬I'm Filmmaker</p>
+<p>🎬 Filmmaking — Every frame is a decision, every cut a conviction</p>
+<p>🥊 Boxing — I’m not interested in great, I wanted to know who its daddy is.</p>
+<p>⚾ Baseball — Take a swing ahd see what happens</p>
+<p>🏎️ F1 — Power has rhythm and speed has grace.</p>
 
 
 
