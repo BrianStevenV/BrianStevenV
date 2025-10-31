@@ -5,7 +5,7 @@
 <h1 align="left">🏅I'm fascinated by building performant web experiences and solid architectures that create high impact at scale.🏅</h1>
 
 
-<h1>Profile</h1>
+<h1>👤Profile</h1>
 
 <p align="left">💻 Web UI Engineer | React & TypeScript | Crafting High-Performance Frontend Architectures 🚀</p>
 
