@@ -83,22 +83,12 @@ I love working at the intersection of frontend experience and backend logic.</p>
 
 ###
 
-  ![snake gif](https://github.com/BrianStevenV/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-  <div align="center">
-  <img height="300" src="https://github.com/BrianStevenV/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif"  />
-</div>
-
-###
-
 <div align="center">
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0angxZHJsdWtyNjk3dmJlZGczNHN2YjN6NTk1b3Frc213b3l3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDWAAKxKbpamHrW/giphy.gif" />
 </div>
 
 ###
 
-<!-- <div align="center">
-  <img height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div> -->
 
 ###
 
